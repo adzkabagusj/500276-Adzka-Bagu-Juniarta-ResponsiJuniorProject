@@ -1,0 +1,72 @@
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.exe
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.deps.json
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.runtimeconfig.json
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.dll
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.pdb
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.AssemblyReference.cache
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.FormHome.resources
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.GenerateResource.cache
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.AssemblyInfoInputs.cache
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.AssemblyInfo.cs
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.CoreCompileInputs.cache
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.CopyComplete
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.dll
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\refint\Responsi_2_500276.dll
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.pdb
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.genruntimeconfig.cache
+C:\Users\Saddan Syah A\source\repos\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\ref\Responsi_2_500276.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.exe
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.deps.json
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.runtimeconfig.json
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.pdb
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.FormHome.resources
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.sourcelink.json
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\refint\Responsi_2_500276.dll
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.pdb
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\ref\Responsi_2_500276.dll
+C:\Users\HP\source\repos\responsi2-juniorproject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi.2B820BE3.Up2Date
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.exe
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.deps.json
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.runtimeconfig.json
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Responsi_2_500276.pdb
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.AssemblyReference.cache
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.FormHome.resources
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.GenerateResource.cache
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.AssemblyInfoInputs.cache
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.AssemblyInfo.cs
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.csproj.CoreCompileInputs.cache
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.sourcelink.json
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi.2B820BE3.Up2Date
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\refint\Responsi_2_500276.dll
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.pdb
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\Responsi_2_500276.genruntimeconfig.cache
+C:\Users\Praktikan\source\repos\500276-Adzka-Bagus-Juniarta-ResponsiJuniorProject\Responsi_2_500276\Responsi_2_500276\obj\Debug\net6.0-windows\ref\Responsi_2_500276.dll
